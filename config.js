@@ -1,4 +1,4 @@
-const ownerNumber = ["79919841518@s.whatsapp.net"] 
+const ownerNumber = ["527711370070@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
 
@@ -7,7 +7,7 @@ var prefixs = ['!', '.', '#', '$', '&', '/', '>', '?']
 const chatGptKey = ''
 // Apikey do chatgpt
 
-const OriginalOwner = '79919841518' 
+const OriginalOwner = '527711370070' 
 // mude para seu numero
 
 const menuimg = 'https://i.imgur.com/2KJfprY.jpg'
